@@ -1,0 +1,10 @@
+{
+  "prefix": "!",
+  "logsChannel": "mod-logs",
+  "reportsChannel": "mod-reports",
+
+  "activity": {
+    "streaming": false,
+    "game": "Minkwaft"
+  }
+}
